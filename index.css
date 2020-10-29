@@ -3,8 +3,10 @@
     background-color: lightgreen;
     border: lightskyblue double 10px;
     border-radius: 4px;
-    margin-left: 240px;
-    margin-right: 240px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
     font-family: fantasy;
     font-size: 60px;
     padding-top: 10px;

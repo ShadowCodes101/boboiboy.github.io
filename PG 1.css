@@ -8,8 +8,10 @@ body{
     border:double 20px aqua;
     background-color: cornflowerblue;
     font-size: 50px;
-    margin-left: 500px;
-    margin-right: 500px;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
 }
 h2{
     border: double 20px aqua;
