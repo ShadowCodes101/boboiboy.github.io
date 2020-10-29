@@ -1,0 +1,35 @@
+
+#title{
+    background-color: lightgreen;
+    border: lightskyblue double 10px;
+    border-radius: 4px;
+    margin-left: 240px;
+    margin-right: 240px;
+    font-family: fantasy;
+    font-size: 60px;
+    padding-top: 10px;
+    text-align: center;
+    
+}
+#image{
+ display: flex;
+ align-items: center;
+ justify-content: space-evenly;
+ margin: 30px;
+}
+#link{
+    background-color: lightgreen;
+    margin-left:240px;
+    margin-right: 240px;
+    text-align: center;
+}
+body{
+    background-color:lightgoldenrodyellow;
+    border: double deepskyblue 10px;
+}
+img{
+    border:burlywood 5px double;
+}
+p{
+    font-family: 'Saira Stencil One', cursive;
+}
